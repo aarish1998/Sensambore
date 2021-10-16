@@ -1,0 +1,84 @@
+
+.container-1{
+  color: #fff;
+  background-color: #E23E57 ;
+  padding: 3%  15% ;
+}
+
+/* NAVIGATION BAR */
+/*.navbar{
+  padding:0 0 4.5rem;
+}*/
+.heading-3{
+  font-family: "Montserrat-bold";
+  font-size: 1.7rem;
+  line-height: 1.5;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 8px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light"
+}
+.heading-1{
+  font-family: "Montserrat-bold";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.ranthambore-img{
+  width: 100%;
+  border-radius:  80px 0 ;
+
+}
+.fort-icon:hover{
+  color: black;
+}
+.para1{
+  margin-right: 20%;
+}
+.row{
+  margin-top: 30px;
+}
+p{
+  font-family: "Merriweather";
+}
+/* -------------- container-2 --------------------- */
+.container-2{
+  text-align: center;
+  background-color:#FCD1D1;
+
+}
+
+
+/* -------------- container-3 --------------------- */
+.container-3{
+  text-align: center;
+  background-color:  #B42B51;
+  color: #fff;
+}
+.caro-img{
+  border-radius: 100px;
+  width: 50%;
+  margin:20px;
+}
+h3{
+  font-family: "Montserrat-bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/*  FOOTER SECTION */
+.footer{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #EDEDED;
+}
+.social-icon{
+  margin: 20px 20px;
+}

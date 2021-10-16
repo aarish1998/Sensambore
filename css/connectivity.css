@@ -1,0 +1,121 @@
+.container-1 {
+  background-color: #E23E57;
+  margin-right: 0;
+  height: auto;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.heading-1 {
+  color: #fff;
+  margin-top: 20px;
+  font-family: "Montserrat-black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.para-A{
+  font-family: "Alegreya", serif;
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.img-map {
+  margin-top: 20px;
+  width: 100%;
+  border-radius: 20px 0;
+  /*height: 500px;
+  width: 500px;
+transform: rotate(15deg);*/
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 8px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-light"
+}
+
+/* ---------------------------------------- CONTAINER-2 ------------------------------- */
+.container-2 {
+  background-color: #FCD1D1;
+    padding: 3% 0;
+    text-align: center;
+}
+.heading-A {
+  margin-top: 20px;
+  font-family: "Montserrat-black";
+  font-size: 3.0rem;
+  line-height: 1.5;
+}
+.heading-3{
+    margin-top: 20px;
+    font-family: "Montserrat-black";
+    font-size: 2.0rem;
+    line-height: 1.5;
+}
+.icon{
+  color:#E23E57;
+  margin: 50px;
+}
+.icon:hover{
+  color:green;
+}
+.para-1{
+  font-family: "Alegreya" ,serif;
+  font-size: 1.3rem;
+  color: #8f8f8f;
+  text-align: left;
+}
+.CARD1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: auto;
+}
+/* ------------------------------------------ CONTAINER-3 ----------------------------------- */
+.container-3{
+  background-color:  #B42B51;
+  text-align: center;
+  padding: 3% 0;
+}
+.heading-B{
+  color: #fff;
+  margin-top: 20px;
+  font-family: "Montserrat-black";
+  font-size: 3.0rem;
+  line-height: 1.5;
+}
+.p1{
+  color: #fff;
+  text-align: center;
+  font-size: 1.5rem;
+}
+p{
+  text-align: left;
+}
+/* FOOTER SECTION STYLING */
+.footer{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #EDEDED;
+}
+.social-icon{
+  margin: 20px 20px;
+}
+.copyright{
+  text-align: center;
+  color:  #DA0037;
+}
+.copyright:hover{
+  color: black;
+}
